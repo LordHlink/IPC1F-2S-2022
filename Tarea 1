@@ -1,0 +1,74 @@
+# IPC1F-2S-2022
+
+<!DOCTYPE html>
+<html lang="es">
+    <head> 
+        <meta charset="utf-8" />
+        <Title>Primera pagina web</Title>
+        <meta name="description" content="Esta es mi primer pagina web" /> 
+        <meta name="Author" content="Hugo" />
+        <meta name="keyword" content="palabras clave para encontrarlo" >
+
+        <style>
+         table, th, td{
+            border: 1px solid black;
+            border-collapse: collapse;
+         }
+
+         th,td {
+            padding: 8px;
+         }
+         </style>
+    </head>
+    <body>
+        <header>
+            <h1>Hugo Rolando Pellecer Camposeco 202001241</h1> 
+        </header>
+
+        <table> 
+            <tr>
+                <th> Curso</th>
+                <th> Semestre</th>
+                <th> Información</th>
+            </tr>
+
+            <tr>
+                <td> Logica de Sistemas</td>
+                <td> 3ro</td>
+                <td> Se aprende lo basico</td>
+            </tr>
+            <tr>
+                <td> Mate computo 1</td>
+                <td> 3ro</td>
+                <td> verdadero o falso</td>
+            </tr>
+            <tr>
+                <td> Introducción a la programación y computación 1</td>
+                <td> 3ro</td>
+                <td> Que es programar</td>
+            </tr>
+            <tr>
+                <td> Mate intermedia 1</td>
+                <td> 3ro</td>
+                <td> Matrices</td>
+            </tr>
+            <tr>
+                <td> Fisica Basica</td>
+                <td> 2do</td>
+                <td> que es un vector</td>
+            </tr>
+
+        </table>
+
+        <footer> 
+            Derechos reservados 2022
+        </footer>
+    
+    </body>
+</html>
+
+
+
+
+
+
